@@ -6,26 +6,21 @@ This repository contains beginner-friendly Java problems focused on **conditiona
 
 ## 🧠 Phase 1: Conditional Thinking (If-Else, Boolean Logic)
 
-### 📋 Practice Questions
+###  ✅Level 1: Simple Condition (Getting Started)
+###  ✅Level 2: Nested If Multiple Conditions
+###  ✅Level 3: Math and Number Logic
+###  ✅Level 4: Logical Operator and Compound Statement
+###  ✅Level 5: Creative and Tricky logical Scenerios
 
-1. 🔢 Take a number and print whether it’s **positive**, **negative**, or **zero**  
-2. ⚖️ Check if a number is **even or odd**  
-3. ✋ Check if a number is **divisible by 5**  
-4. 🔗 Check if a number is **divisible by both 3 and 5**  
-5. 📅 Check if a given year is a **leap year**  
-6. 🔍 Take two numbers and print the **larger one**  
-7. 🥇 Take three numbers and print the **largest**  
-8. 🌡️ Take a temperature value and print:  
-   - ❄️ Cold  
-   - 🌤️ Warm  
-   - 🔥 Hot  
-9. 🔤 Take a character and check if it’s a **vowel or consonant**  
-10. 🔎 Take a character and check whether it’s:  
-    - 🔠 Uppercase  
-    - 🔡 Lowercase  
-    - 🔢 Digit  
-    - ❗ Special Character  
+## 🎈 Phase 2: Looping and Patterns (Iteration & Flow)
 
+###    ✅ Level 1: Basic Looping (Introductory) 
+###    ✅ Level 2: Number-based Looping Logic
+###    ✅ Level 3: Mathematical & Logical Patterns 
+###    ✅ Level 4: Pattern printing stars and numnber
+###    ✅ Level 5: Logical Loop Combinations 
+
+ 
 ---
 
 ## 🚀 Goal
