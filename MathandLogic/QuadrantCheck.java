@@ -1,4 +1,4 @@
-package LogicalOperatior;
+package MathandLogic;
 import java.util.*;
 
 public class QuadrantCheck {
