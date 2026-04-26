@@ -57,8 +57,3 @@ Each problem helps strengthen logical thinking and conditional branching skills.
    - *(Ignore leap years)*
 
 ---
-
-## 🚀 How to Use
-- Clone this repository:
-  ```bash
-  git clone https://github.com/your-username/nested-if-level2.git
