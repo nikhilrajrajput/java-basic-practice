@@ -12,7 +12,7 @@ public class checkIncometax {
         System.out.println("Enter income");
         int income= sc.nextInt();
 
-        if (age>=18 && income>=500000) {
+        if (age>=18 && income>=50000) {
             System.out.println("Applicable for income tax");
             
         }
